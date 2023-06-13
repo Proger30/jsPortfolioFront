@@ -38,8 +38,14 @@ import whatsapp from '../assets/whatsapp.png';
 import telegram from '../assets/telegram.png';
 import mongodb from '../assets/MongoDB.png';
 import docker from '../assets/docker.webp';
+import github from '../assets/github.png';
+import headHunter from '../assets/headhunter.png';
+import instagram from '../assets/instagram.png';
 
 export default {
+	instagram,
+	headHunter,
+	github,
 	docker,
 	mongodb,
   telegram,
