@@ -61,7 +61,7 @@ const Footer = () => {
 			HeadHunter
 			</div>
 		</a>
-		<a href="https://github.com/Proger30" className="p-text">
+		<a href="https://github.com/Proger30" className="p-text" target="_blank" rel="noreferrer">
 			<div className="app__footer-card github-card">
 			<img src={images.github} alt="email" />
 			GitHub
