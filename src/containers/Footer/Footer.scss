@@ -29,13 +29,22 @@
     cursor: pointer;
     background-color: #fce5ea;
 	&.phone-card {
-		background-color: #fce5fc;
+		background-color: #e5fcf3;
 	}
 	&.whatsapp-card {
 		background-color: #e5fce9;
 	}
 	&.telegram-card {
 		background-color: #e5e9fc;
+	}
+	&.github-card {
+		background-color: #e5e6fc;
+	}
+	&.headhunter-card {
+		background-color: #fcf6e5;
+	}
+	&.instagram-card {
+		background-color: #f9e5fc;
 	}
 	
     transition: all 0.3s ease-in-out;
